@@ -1,3 +1,4 @@
+package tp1;
 public class Ex5 {
     public static boolean verifPalindrome(String str){
         int len=str.length();

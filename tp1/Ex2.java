@@ -1,3 +1,4 @@
+package tp1;
 public class Ex2 {
     public static void affiche(int[] tab,int ind){
         if(ind==tab.length-1){

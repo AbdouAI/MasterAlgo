@@ -1,3 +1,4 @@
+package tp1;
 public class Ex1{
 
     public static float calcul(int n,float p,float res){
